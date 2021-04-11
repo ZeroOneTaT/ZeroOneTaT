@@ -9,10 +9,10 @@
 
 - ⚡ 湖南长沙某大学在读研究生. 
 - 🌱 技术不佳，爱好捣鼓.
-- 💬 邮箱，欢迎交流、讨论：[liujia_9621@163.com](mailto:liujia_9621@163.com)
-- ⭐ 没事写写[博客园](https://www.cnblogs.com/ZeroOnez/)
-- ⭐ 公众号：[喃甲的小屋](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODE3MDgyNg==&scene=124&uin=&key=&devicetype=Windows+10+x64&version=63020170&lang=zh_CN&a8scene=7&fontgear=2)
-- ⭐ 研究方向: 压缩感知、深度学习、计算机视觉
+- 💬 邮箱，欢迎交流、讨论：[liujia_9621@163.com](mailto:liujia_9621@163.com).
+- ⭐ 没事写写[博客园](https://www.cnblogs.com/ZeroOnez/).
+- ⭐ 公众号：[喃甲的小屋](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODE3MDgyNg==&scene=124&uin=&key=&devicetype=Windows+10+x64&version=63020170&lang=zh_CN&a8scene=7&fontgear=2).
+- ⭐ 研究方向: 压缩感知、深度学习、计算机视觉.
 
 ### 🛠 技术栈 | Tech Stack
 
