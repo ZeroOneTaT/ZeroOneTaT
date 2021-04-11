@@ -1,16 +1,36 @@
-<h1 align="center">Hi 👋, I'm ZeroOneTaT</h1>
-<h3 align="center">一个不学无术的小菜鸡，欢迎讨论学习</h3>
+<font face = "宋体">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeroonetat&label=Profile%20views&color=0e75b6&style=flat" alt="zeroonetat" /> </p>
+## 太阳也没有了光👋
 
-- 🌱 I’m currently learning **Deep Learning and CV**
-
-- 📝 I regularly write articles on [https://www.cnblogs.com/ZeroOnez/](https://www.cnblogs.com/ZeroOnez/)
-
-- 📄 Know about my experiences [https://www.cnblogs.com/ZeroOnez/p/13941604.html](https://www.cnblogs.com/ZeroOnez/p/13941604.html)
+---
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 关于我 | About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeroonetat&show_icons=true&locale=en" alt="zeroonetat" /></p>
+- ⚡ 湖南长沙某大学在读研究生. 
+- 🌱 技术不佳，爱好捣鼓.
+- 💬 邮箱，欢迎交流、讨论：[liujia_9621@163.com](mailto:liujia_9621@163.com)
+- ⭐ 没事写写[博客园](https://www.cnblogs.com/ZeroOnez/)
+- ⭐ 公众号：[喃甲的小屋](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODE3MDgyNg==&scene=124&uin=&key=&devicetype=Windows+10+x64&version=63020170&lang=zh_CN&a8scene=7&fontgear=2)
+- ⭐ 研究方向: 压缩感知、深度学习、计算机视觉
+
+### 🛠 技术栈 | Tech Stack
+
+- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+![Python](https://img.shields.io/badge/-Python3-333333?style=flat&logo=Python&logoColor=007396)
+- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
+- 🔧 &#160; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+
+
+
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=ZeroOneTaT&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+> ***你说我是你的太阳，却再也没有了光 !😊***
+
+
+</font>
