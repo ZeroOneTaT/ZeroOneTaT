@@ -47,7 +47,7 @@ Currently major in Software Engineering.
 
 ## Github Summary
 
-<img src="https://github-readme-stats.vercel.app/api?username=chanpero" />
+<img src="https://github-readme-stats.vercel.app/api?username=zeroonetat" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
 
