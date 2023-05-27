@@ -31,5 +31,30 @@
 <!-- [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=ZeroOneTaT&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 > ***你说我是你的太阳，却再也没有了光 !😊***
 
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=6998B2F9&center=true&vCenter=true&repeat=false&width=435&lines=chanper+-+%E6%97%A0%E9%99%90%E8%BF%9B%E6%AD%A5)](https://git.io/typing-svg)
+
+
+## 🥱About me
+
+Currently major in Software Engineering.
+
+- 😀😁🤣😃😄😉😎🤗
+- 🎞️ 标记 552 部影视
+- 🏃‍ 跑步 1269 公里
+- 🏔️ 踏足 8 城
+
+
+## Github Summary
+
+<img src="https://github-readme-stats.vercel.app/api?username=chanpero" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
+
+
+## Visitor Count
+
+![:name](https://count.getloli.com/get/@:zeroonetat)
+  
 
 </font>
