@@ -8,7 +8,7 @@
 ## About Me
   
 - 🌱 码农烧烤创业者
-- 💬 联系邮箱：[liujia_9621@163.com](mailto:liujia_9621@163.com).
+- 💬 联系邮箱：[Gmail](mailto:liujia.zeroone@gmail.com).
 - ⭐ 公众号：[零壹随笔](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyODE3MDgyNg==&scene=124&uin=&key=&devicetype=Windows+10+x64&version=63020170&lang=zh_CN&a8scene=7&fontgear=2).
 - ⭐ 研究方向: 压缩感知、深度学习、计算机视觉.
 
